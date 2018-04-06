@@ -1,0 +1,12 @@
+# Project: -ARUS-
+
+# induction motor  : - 400V | 3,0 kW  | 4 HP
+                    - 50 Hz| 2840 r/min
+                    - 2 poles
+                    - 3 Phase
+                    - 6.12 A
+                    - Y connection
+                 
+# inverter         : - FNA41560, 15A 5kHz 
+# micro controller : - NUCLEO-F446RE 
+                  
